@@ -45,3 +45,21 @@ Tüm kavramların bir araya getirildiği kapsamlı uygulama. Component architect
 
 (A comprehensive application that brings together all concepts. Component architecture, routing, state management, and Firebase integration best practices were implemented.)
 
+
+
+
+## Kullanılan Teknolojiler
+
+- Frontend: Vue.js 3, Vue Router, Vuex
+
+- Backend & Database: Firebase (Authentication, Firestore, Hosting)
+
+- UI/Styling: Bootstrap, Custom CSS, HTML5
+
+- Languages: JavaScript (ES6+)
+
+- Tools: Vue CLI, npm
+
+
+
+
